@@ -19,9 +19,19 @@ MonoBehaviour:
       m_GuidLow: 4774658703397819472
       m_GuidHigh: 7840117736844640168
     m_SerializedTextureGuid:
-      m_GuidLow: 15597144442246696096
-      m_GuidHigh: 18004730738561750810
+      m_GuidLow: 4509312651090191400
+      m_GuidHigh: 13012882228784103689
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Bee_Nest_Honey_JE1_BE1
+    m_Name: Minecraft Logo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4959234513600361675
+      m_GuidHigh: 2777264962439946678
+    m_SerializedTextureGuid:
+      m_GuidLow: 11017089206768926312
+      m_GuidHigh: 2019153089179170665
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Steve Bee Update
     m_Texture: {fileID: 0}

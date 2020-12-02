@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 962e9c9749d9cee43a766e41da3cfac2
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 7057144475616153993
+    second: BeeBase|BeeBaseAction
+  - first:
+      74: -2741370077004295349
+    second: BeeBase|Left AttenaAction
+  - first:
+      74: 1292107532372050950
+    second: BeeBase|Left WingAction
+  - first:
+      74: 5337535402486556119
+    second: BeeBase|Leg L1Action
+  - first:
+      74: 2360773837609332288
+    second: BeeBase|Leg L2Action
+  - first:
+      74: -1226707854247106960
+    second: BeeBase|Leg L3Action
+  - first:
+      74: -2766731811932533155
+    second: BeeBase|Leg R1Action
+  - first:
+      74: 5819988801098483481
+    second: BeeBase|Leg R2Action
+  - first:
+      74: -7260884103724216051
+    second: BeeBase|Leg R3Action
+  - first:
+      74: 7498219985862374431
+    second: BeeBase|Right AttenaAction
+  - first:
+      74: -2182283079143585179
+    second: BeeBase|Right WingAction
+  - first:
+      74: -7444029246694612702
+    second: BeeBase|StingerAction
+  - first:
+      74: -5764355930710985303
+    second: Right Attena|BeeBaseAction
+  - first:
+      74: 9115282074797810599
+    second: Right Attena|Left AttenaAction
+  - first:
+      74: -3317567696106819054
+    second: Right Attena|Left WingAction
+  - first:
+      74: -2826522756954552739
+    second: Right Attena|Leg L1Action
+  - first:
+      74: 5678914052762703041
+    second: Right Attena|Leg L2Action
+  - first:
+      74: -7556123029144032780
+    second: Right Attena|Leg L3Action
+  - first:
+      74: -8284086305970214826
+    second: Right Attena|Leg R1Action
+  - first:
+      74: 181529916806281938
+    second: Right Attena|Leg R2Action
+  - first:
+      74: -2773761051624558089
+    second: Right Attena|Leg R3Action
+  - first:
+      74: 7512594824364139320
+    second: Right Attena|Right AttenaAction
+  - first:
+      74: 7406874446020627255
+    second: Right Attena|Right WingAction
+  - first:
+      74: -3081564392711593462
+    second: Right Attena|StingerAction
+  - first:
+      74: 2233711754746381728
+    second: Left Attena|BeeBaseAction
+  - first:
+      74: 3681345898345069717
+    second: Left Attena|Left AttenaAction
+  - first:
+      74: -8495674576279370514
+    second: Left Attena|Left WingAction
+  - first:
+      74: 7396619873533491158
+    second: Left Attena|Leg L1Action
+  - first:
+      74: 242889697926135034
+    second: Left Attena|Leg L2Action
+  - first:
+      74: -753699510335449946
+    second: Left Attena|Leg L3Action
+  - first:
+      74: -7731894809916104975
+    second: Left Attena|Leg R1Action
+  - first:
+      74: 4782148379927996570
+    second: Left Attena|Leg R2Action
+  - first:
+      74: -8107752381661491494
+    second: Left Attena|Leg R3Action
+  - first:
+      74: -5749310763767326235
+    second: Left Attena|Right AttenaAction
+  - first:
+      74: -7885433039964480161
+    second: Left Attena|Right WingAction
+  - first:
+      74: -8171720961093238320
+    second: Left Attena|StingerAction
+  - first:
+      74: -7522521364744966745
+    second: Stinger|BeeBaseAction
+  - first:
+      74: -1808882234333411073
+    second: Stinger|Left AttenaAction
+  - first:
+      74: 1706357912057236021
+    second: Stinger|Left WingAction
+  - first:
+      74: 4349032479651105548
+    second: Stinger|Leg L1Action
+  - first:
+      74: 7892941936863817989
+    second: Stinger|Leg L2Action
+  - first:
+      74: -1787355533234814699
+    second: Stinger|Leg L3Action
+  - first:
+      74: 8976910615909439652
+    second: Stinger|Leg R1Action
+  - first:
+      74: 121235433170105057
+    second: Stinger|Leg R2Action
+  - first:
+      74: 44894729885558131
+    second: Stinger|Leg R3Action
+  - first:
+      74: 2951812231161298441
+    second: Stinger|Right AttenaAction
+  - first:
+      74: 3403464460143666219
+    second: Stinger|Right WingAction
+  - first:
+      74: -1894168455442493210
+    second: Stinger|StingerAction
+  - first:
+      74: -796303871380166453
+    second: Leg L1|BeeBaseAction
+  - first:
+      74: 7330703118705254287
+    second: Leg L1|Left AttenaAction
+  - first:
+      74: -6718966121340304240
+    second: Leg L1|Left WingAction
+  - first:
+      74: -8049938301575186432
+    second: Leg L1|Leg L1Action
+  - first:
+      74: 5961065202351549348
+    second: Leg L1|Leg L2Action
+  - first:
+      74: -4355110646943862780
+    second: Leg L1|Leg L3Action
+  - first:
+      74: 3778251906248023280
+    second: Leg L1|Leg R1Action
+  - first:
+      74: -8308156876694349529
+    second: Leg L1|Leg R2Action
+  - first:
+      74: 4282944500099472020
+    second: Leg L1|Leg R3Action
+  - first:
+      74: 4029830454009521986
+    second: Leg L1|Right AttenaAction
+  - first:
+      74: 1009877924814275180
+    second: Leg L1|Right WingAction
+  - first:
+      74: 1283953019619432013
+    second: Leg L1|StingerAction
+  - first:
+      74: 2883065373077314252
+    second: Leg L2|BeeBaseAction
+  - first:
+      74: -7905802624201791779
+    second: Leg L2|Left AttenaAction
+  - first:
+      74: -4538889731222303184
+    second: Leg L2|Left WingAction
+  - first:
+      74: -2617152905045609524
+    second: Leg L2|Leg L1Action
+  - first:
+      74: -842077319347607368
+    second: Leg L2|Leg L2Action
+  - first:
+      74: 8889173562983018162
+    second: Leg L2|Leg L3Action
+  - first:
+      74: 5054229171170594451
+    second: Leg L2|Leg R1Action
+  - first:
+      74: 9028055246915697565
+    second: Leg L2|Leg R2Action
+  - first:
+      74: -1735411631632482556
+    second: Leg L2|Leg R3Action
+  - first:
+      74: -5582527176697825658
+    second: Leg L2|Right AttenaAction
+  - first:
+      74: 847125998879553530
+    second: Leg L2|Right WingAction
+  - first:
+      74: -659630485421962118
+    second: Leg L2|StingerAction
+  - first:
+      74: -5505960263360641267
+    second: Leg L3|BeeBaseAction
+  - first:
+      74: 8102109167744354627
+    second: Leg L3|Left AttenaAction
+  - first:
+      74: -8366796782595432009
+    second: Leg L3|Left WingAction
+  - first:
+      74: 8227953490086393186
+    second: Leg L3|Leg L1Action
+  - first:
+      74: -8786620459363266919
+    second: Leg L3|Leg L2Action
+  - first:
+      74: 6058232917480552785
+    second: Leg L3|Leg L3Action
+  - first:
+      74: -6609000797851020862
+    second: Leg L3|Leg R1Action
+  - first:
+      74: 5635179671364342833
+    second: Leg L3|Leg R2Action
+  - first:
+      74: -3176968448287987325
+    second: Leg L3|Leg R3Action
+  - first:
+      74: -124826500637970892
+    second: Leg L3|Right AttenaAction
+  - first:
+      74: 6111498768530985833
+    second: Leg L3|Right WingAction
+  - first:
+      74: 2999873190117643367
+    second: Leg L3|StingerAction
+  - first:
+      74: 7284280437537680569
+    second: Leg R3|BeeBaseAction
+  - first:
+      74: 3090340264426512266
+    second: Leg R3|Left AttenaAction
+  - first:
+      74: 6524644730776850330
+    second: Leg R3|Left WingAction
+  - first:
+      74: 4638835095315887847
+    second: Leg R3|Leg L1Action
+  - first:
+      74: -3479871323016882821
+    second: Leg R3|Leg L2Action
+  - first:
+      74: 4528257223608664230
+    second: Leg R3|Leg L3Action
+  - first:
+      74: -1454922816406826048
+    second: Leg R3|Leg R1Action
+  - first:
+      74: 5708325320830207400
+    second: Leg R3|Leg R2Action
+  - first:
+      74: 5581025340849084134
+    second: Leg R3|Leg R3Action
+  - first:
+      74: 8834150874964731446
+    second: Leg R3|Right AttenaAction
+  - first:
+      74: 3551115092883829473
+    second: Leg R3|Right WingAction
+  - first:
+      74: 273722790584376632
+    second: Leg R3|StingerAction
+  - first:
+      74: -6849357792620006708
+    second: Leg R2|BeeBaseAction
+  - first:
+      74: -8804479414814963708
+    second: Leg R2|Left AttenaAction
+  - first:
+      74: 7358976885061731213
+    second: Leg R2|Left WingAction
+  - first:
+      74: -7224395903987204725
+    second: Leg R2|Leg L1Action
+  - first:
+      74: 1058509827185844571
+    second: Leg R2|Leg L2Action
+  - first:
+      74: 6825936402355509567
+    second: Leg R2|Leg L3Action
+  - first:
+      74: -2967767618586708390
+    second: Leg R2|Leg R1Action
+  - first:
+      74: -2224766921175788656
+    second: Leg R2|Leg R2Action
+  - first:
+      74: -4780134660562256560
+    second: Leg R2|Leg R3Action
+  - first:
+      74: 1627713990284040961
+    second: Leg R2|Right AttenaAction
+  - first:
+      74: 4315748806061682327
+    second: Leg R2|Right WingAction
+  - first:
+      74: -1384039638976497940
+    second: Leg R2|StingerAction
+  - first:
+      74: 6784739868572691262
+    second: Leg R1|BeeBaseAction
+  - first:
+      74: 2184759229914658656
+    second: Leg R1|Left AttenaAction
+  - first:
+      74: -3869613268112832654
+    second: Leg R1|Left WingAction
+  - first:
+      74: -6128809890747576709
+    second: Leg R1|Leg L1Action
+  - first:
+      74: -4431348277362064593
+    second: Leg R1|Leg L2Action
+  - first:
+      74: -3161000015213256544
+    second: Leg R1|Leg L3Action
+  - first:
+      74: 5874623089003314962
+    second: Leg R1|Leg R1Action
+  - first:
+      74: 8896266061143008235
+    second: Leg R1|Leg R2Action
+  - first:
+      74: 1955667930297944822
+    second: Leg R1|Leg R3Action
+  - first:
+      74: 6787501529723511290
+    second: Leg R1|Right AttenaAction
+  - first:
+      74: 1704237145019165115
+    second: Leg R1|Right WingAction
+  - first:
+      74: -6955163454789835450
+    second: Leg R1|StingerAction
+  - first:
+      74: -778440616716029633
+    second: Left Wing|BeeBaseAction
+  - first:
+      74: 5601966700430751084
+    second: Left Wing|Left AttenaAction
+  - first:
+      74: 7202736094601978583
+    second: Left Wing|Left WingAction
+  - first:
+      74: 805060946647784685
+    second: Left Wing|Leg L1Action
+  - first:
+      74: 8091571542742844361
+    second: Left Wing|Leg L2Action
+  - first:
+      74: 7566141345553918457
+    second: Left Wing|Leg L3Action
+  - first:
+      74: 6974895702627301110
+    second: Left Wing|Leg R1Action
+  - first:
+      74: -6405100126872404266
+    second: Left Wing|Leg R2Action
+  - first:
+      74: 4324811325771139293
+    second: Left Wing|Leg R3Action
+  - first:
+      74: 720768527156270124
+    second: Left Wing|Right AttenaAction
+  - first:
+      74: 5995902385966404425
+    second: Left Wing|Right WingAction
+  - first:
+      74: 8404176099269485623
+    second: Left Wing|StingerAction
+  - first:
+      74: 7868211052736232983
+    second: Right Wing|BeeBaseAction
+  - first:
+      74: -4914250096096482684
+    second: Right Wing|Left AttenaAction
+  - first:
+      74: -4788426743086374470
+    second: Right Wing|Left WingAction
+  - first:
+      74: 2719068954692003833
+    second: Right Wing|Leg L1Action
+  - first:
+      74: 3325530898480907773
+    second: Right Wing|Leg L2Action
+  - first:
+      74: -4775957284870427863
+    second: Right Wing|Leg L3Action
+  - first:
+      74: -8924488369273136870
+    second: Right Wing|Leg R1Action
+  - first:
+      74: 5235216635282583256
+    second: Right Wing|Leg R2Action
+  - first:
+      74: -9080201940237152957
+    second: Right Wing|Leg R3Action
+  - first:
+      74: 7443864712672208241
+    second: Right Wing|Right AttenaAction
+  - first:
+      74: -2218681487928703176
+    second: Right Wing|Right WingAction
+  - first:
+      74: 5455998123143538217
+    second: Right Wing|StingerAction
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bee
+    second: {fileID: 2100000, guid: c433e0617d1e92d468b0b5ff915be9be, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
