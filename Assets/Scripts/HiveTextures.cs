@@ -12,18 +12,18 @@ public class HiveTextures : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        State = 0;
         EmptyHive();
     }
 
     private void updateHiveTexture() 
     {
         frontHiveMaterial.mainTexture = frontHiveTextures[State];
+        
     }
 
     public void FillHive() 
     {
-        if (State < frontHiveTextures.Length-1)
+        if (State < frontHiveTextures.Length - 1)
         {
             State++;
             updateHiveTexture();
@@ -33,5 +33,6 @@ public class HiveTextures : MonoBehaviour
     public void EmptyHive() 
     {
         State = 0;
+        updateHiveTexture();
     }
 }
